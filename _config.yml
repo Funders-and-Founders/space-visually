@@ -11,7 +11,7 @@ title:            Space
 tagline:          'A visual browser'
 description:      'Infographics about space linked together. Made by <a href="https://twitter.com/fundersfounders" target="_blank">@fundersfounders</a>.'
 url:              http://fundersandfounders.com
-baseurl:          '/'
+baseurl:          '/space-visually'
 paginate:         1
 
 author:
