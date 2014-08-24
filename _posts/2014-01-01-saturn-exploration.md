@@ -5,5 +5,5 @@ description: Saturn is the seventh planet from the sun, and most notable for it'
 source: http://www.omgspace.net
 ---
 
-![Uranus exploration](/img/saturn-exploration.jpg)
+![Uranus exploration]({{ site.baseurl }}img/saturn-exploration.jpg)
 

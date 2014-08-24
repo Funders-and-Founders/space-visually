@@ -5,5 +5,5 @@ description: Uranus is the seventh planet from the sun. Uranus' axis is tilted a
 source: http://www.omgspace.net
 ---
 
-![Uranus exploration](/img/uranus-exploration.jpg)
+![Uranus exploration]({{ site.baseurl }}img/uranus-exploration.jpg)
 

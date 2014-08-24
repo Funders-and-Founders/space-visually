@@ -5,5 +5,5 @@ description: The planet Mars is infamous for it's red colour, which is due to a 
 source: http://www.omgspace.net
 ---
 
-![Mars exploration](/img/missions-to-mars.jpg)
+![Mars exploration]({{ site.baseurl }}img/missions-to-mars.jpg)
 

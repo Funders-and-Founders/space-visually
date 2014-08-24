@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Space Visual Collection
+title: About
 ---
 
 <p class="message">

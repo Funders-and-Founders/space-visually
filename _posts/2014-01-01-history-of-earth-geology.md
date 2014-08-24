@@ -4,5 +4,5 @@ title: When Earth Began
 source:
 ---
 
-![When Earth Began](/img/history-of-earth-geology.png)
+![When Earth Began]({{ site.baseurl }}img/history-of-earth-geology.png)
 

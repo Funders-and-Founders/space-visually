@@ -5,7 +5,7 @@ description: The moon is the fifth largest natural satellite in the solar system
 source: http://www.omgspace.net
 ---
 
-![Moon exploration](/img/moon-early-exploration.jpg)
+![Moon exploration]({{ site.baseurl }}img/moon-early-exploration.jpg)
 
 <script>
   data = [

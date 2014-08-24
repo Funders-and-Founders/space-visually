@@ -5,7 +5,7 @@ description: Earth is the third planet from the sun, putting it in the "Goldiloc
 source: http://www.omgspace.net
 ---
 
-![Earth Exploration](/img/earth-exploration.jpg)
+![Earth Exploration]({{ site.baseurl }}img/earth-exploration.jpg)
 
 <script>
   data = [

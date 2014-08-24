@@ -5,5 +5,5 @@ description: The sun is a yellow dwarf star at the center of Earth's solar syste
 source: http://www.omgspace.net
 ---
 
-![Sun exploration](/img/sun-exploration.jpg)
+![Sun exploration]({{ site.baseurl }}img/sun-exploration.jpg)
 

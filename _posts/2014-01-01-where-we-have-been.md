@@ -6,7 +6,7 @@ source: http://nasa.gov
 orientation: horizontal
 ---
 
-![Where We Have Been](/img/where-we-have-been.jpg)
+![Where We Have Been]({{ site.baseurl }}img/where-we-have-been.jpg)
 
 <script>
   data = [
