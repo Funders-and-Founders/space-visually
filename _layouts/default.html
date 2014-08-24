@@ -70,7 +70,13 @@
                   window.location = wiki;
               },
               mouseenter: 'show',
-              mouseleave: 'hide'
+              mouseleave: function( e ) {
+                  if ($('.taggd-item-hover.show').size()>1) {
+                  } else {
+                    $(this).next().toggleClass('show');
+                  }
+                  $(this).removeClass('active');
+              },
           }
       };      
 
@@ -81,8 +87,9 @@
             $e.taggd(settings);
             $e.taggd('items', data)
         });      
-//         $('.container img').taggd( settings );
-//         $('.container img').taggd( 'items', vtags );
+        $('.container img').click(function (){
+          $('.taggd-item-hover').toggleClass('show');
+        });
       });
     </script>
   </body>
