@@ -9,7 +9,7 @@ source: http://www.omgspace.net
 
 <script>
   data = [
-      { x: 0.907, y: 0.778, text: 'Moon Late Exploration', uri: 'moon-late-exploration' },     
+      { x: 0.907, y: 0.778, text: 'Later Exploration', uri: 'moon-late-exploration' },     
   ]
 </script>
 
