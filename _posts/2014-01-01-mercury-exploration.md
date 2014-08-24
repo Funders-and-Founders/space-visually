@@ -5,5 +5,5 @@ description: Mercury is the smallest planet in the solar system, and the closest
 source: http://www.omgspace.net
 ---
 
-![Mercury exploration]({{ site.baseurl }}img/mercury-exploration.jpg)
+![Mercury exploration]({{ site.baseurl }}/img/mercury-exploration.jpg)
 

@@ -5,5 +5,5 @@ description: Pluto is the fourth dwarf planet from the sun, the tenth planetary 
 source: http://www.omgspace.net
 ---
 
-![Pluto exploration]({{ site.baseurl }}img/pluto-exploration.jpg)
+![Pluto exploration]({{ site.baseurl }}/img/pluto-exploration.jpg)
 

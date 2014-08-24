@@ -6,5 +6,5 @@ source:
 orientation: horizontal
 ---
 
-![The solar system]({{ site.baseurl }}img/the-solar-system.jpg)
+![The solar system]({{ site.baseurl }}/img/the-solar-system.jpg)
 

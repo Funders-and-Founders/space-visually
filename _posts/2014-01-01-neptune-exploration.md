@@ -5,5 +5,5 @@ description: Neptune is the eighth and last planet in our solar system, the furt
 source: http://www.omgspace.net
 ---
 
-![Neptune exploration]({{ site.baseurl }}img/neptune-exploration.jpg)
+![Neptune exploration]({{ site.baseurl }}/img/neptune-exploration.jpg)
 

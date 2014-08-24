@@ -6,5 +6,5 @@ source: http://mashable.com/2014/03/17/voyager-1-timeline/
 orientation:
 ---
 
-![Voyager 1 Path]({{ site.baseurl }}img/voyager1-path-of-the-most-distant-man-made-object.jpg)
+![Voyager 1 Path]({{ site.baseurl }}/img/voyager1-path-of-the-most-distant-man-made-object.jpg)
 

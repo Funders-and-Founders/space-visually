@@ -5,4 +5,4 @@ description: Venus is the second planet from the sun, and often referred to as E
 source: http://www.omgspace.net
 ---
 
-![Venus exploration]({{ site.baseurl }}img/venus-exploration.jpg)
+![Venus exploration]({{ site.baseurl }}/img/venus-exploration.jpg)

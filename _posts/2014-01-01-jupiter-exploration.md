@@ -5,4 +5,4 @@ description: Jupiter is the largest planet in our solar system, and the fifth fu
 source: http://www.omgspace.net  
 ---
 
-![Jupiter exploration]({{ site.baseurl }}img/jupiter-exploration.jpg)
+![Jupiter exploration]({{ site.baseurl }}/img/jupiter-exploration.jpg)
