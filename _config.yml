@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+#permalink:        pretty
+permalink:         /:title
+
+# Setup
+title:            Space
+tagline:          'A visual browser'
+description:      'Infographics about space linked together. Made by <a href="https://twitter.com/fundersfounders" target="_blank">@fundersfounders</a>.'
+url:              http://fundersandfounders.com
+baseurl:          '/'
+paginate:         1
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/fundersfounders
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon
