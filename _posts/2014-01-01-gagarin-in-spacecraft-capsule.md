@@ -7,8 +7,3 @@ orientation: horizontal
 ---
 
 ![Saturn 5]({{ site.baseurl }}/img/gagarin-in-spacecraft-capsule.jpg)
-
-<script>
-  data = [
-  ]
-</script>

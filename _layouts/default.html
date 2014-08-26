@@ -78,7 +78,9 @@
                   $(this).removeClass('active');
               },
           }
-      };      
+      };
+      
+      data = {{ page.vtags | jsonify }};
 
       $(window).load(function() {
         $('.container img').each(function(i, e) {
