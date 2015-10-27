@@ -11,5 +11,5 @@ vtags:
     uri: 'gagarin-in-spacecraft-capsule'
 ---
 
-![Saturn 5]({{ site.baseurl }}/img/vostok1-flight-gagarin-first-man-in-space.jpg)
+![Saturn 5]({{ site.baseurl }}/img/vostok1-flight-gagarin.jpg)
 

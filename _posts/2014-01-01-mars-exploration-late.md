@@ -5,11 +5,10 @@ description: The planet Mars is infamous for it's red colour, which is due to a 
 source: http://www.omgspace.net
 vtags:
   -
-    x: 0.907
-    y: 0.796
-    text: 'late exploration'
-    uri: 'mars-exploration-late'
+    x: 0.607
+    y: 0.419
+    text: 'curiosity landing'
+    uri: 'curiosity-mars-landing-rover'
 ---
 
-![Mars exploration]({{ site.baseurl }}/img/mars-exploration-early.jpg)
-
+![Mars exploration]({{ site.baseurl }}/img/mars-exploration-late.jpg)

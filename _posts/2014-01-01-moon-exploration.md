@@ -9,6 +9,11 @@ vtags:
     y: 0.778
     text: 'Later Exploration'
     uri: 'moon-late-exploration'
+  -
+    x: 0.55
+    y: 0.55
+    text: '1st Manned Landing'
+    uri: 'apollo-manned-lunar-landing'
 ---
 
 ![Moon exploration]({{ site.baseurl }}/img/moon-early-exploration.jpg)
